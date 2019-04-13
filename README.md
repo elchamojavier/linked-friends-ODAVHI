@@ -1,10 +1,11 @@
 # linked-friends-ODAVHI
-Open Data and Venezuelan Health Indicators
+OPEN DATA AND VENEZUELAN HEALTH INDICATORS
 
 From the original repo in Code4Venezuela repo 
 https://github.com/code-for-venezuela/2019-april-codeathon/tree/master/challenges/HRW-VIZ
 
-Problem statement
+PROBLEM STATEMENT
+
 Human Rights Watch has been doing research that shows:
 
 Increased levels of maternal and infant mortality.
@@ -17,10 +18,10 @@ In order to create these reports, we analyzed data provided in "Boletin Epidemio
 
 We would like to make it easier and more transparent to start having access to Venezuelan health data. This could contribute to further research in the future and ….
 
-Challenge
+CHALLENGE
 In order to create more awareness about this issue, we would like to create a platform that makes this information available and discoverable through APIs. Similar to the work that PAHO is doing but completely focused on Venezuelan data.
 
-Open Data: The government used to publish reports about the health data of the country. You will have access to data in this folder. These documents are in a format that are not parseable by computers. The goal of this project is to create a system to parse all this data and make it available through APIs.
+OPEN DATA: The government used to publish reports about the health data of the country. You will have access to data in this folder. These documents are in a format that are not parseable by computers. The goal of this project is to create a system to parse all this data and make it available through APIs.
 Partnerships - Bonus:
 Explore partnerships with DataDrum, Transparencia Venezuela and Vendata.
 Can we make these reports available through their platforms?
